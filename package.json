@@ -1,7 +1,7 @@
 {
   "name": "jest-another-rpg",
   "version": "1.0.0",
-  "description": "",
+  "description": "A fully javascript browser RPG used to teach Objects and modularization",
   "main": "index.js",
   "scripts": {
     "test": "jest"
